@@ -61,7 +61,7 @@ Data is generated through a structured pipeline:
 3. User can optionally provide clarification  
 4. AI refines or confirms the result  
 5. Only visually verifiable public issues are retained  
-6. The final record is stored as a geospatial feature  
+6. The final record is stored as a geospatial feature and published on a map  
 
 This approach ensures consistency and reduces noise in the dataset.
 
@@ -91,7 +91,7 @@ This dataset can be used for:
 
 ---
 
-## Access
+## Access & Collaboration
 
 The full dataset is not publicly available.
 
@@ -101,7 +101,7 @@ Access can be provided upon request for:
 - commercial use  
 - integration into existing systems  
 
-For inquiries, please get in touch.
+If you are interested in accessing the dataset or exploring collaboration opportunities, feel free to get in touch.
 
 ---
 
