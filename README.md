@@ -12,6 +12,8 @@ A user captures a utility or infrastructure issue using their phone camera, AI a
 
 👉 From photo to map, in just a few steps.
 
+The application is fully deployed and works as a live web app.
+
 ---
 
 ## Why this project exists
@@ -44,6 +46,18 @@ The application follows a simple and intuitive flow:
 6. The user can optionally add clarification  
 7. AI refines or confirms the result  
 8. The report is submitted and stored in ArcGIS Online  
+
+---
+
+## Deployment
+
+The application is deployed using Vercel, enabling:
+
+- serverless backend functions  
+- seamless integration with GitHub  
+- automatic deployment on every push  
+
+This setup allows the app to run as a fully functional online service, not just a local prototype.
 
 ---
 
@@ -135,6 +149,20 @@ The clarification step was redesigned into a lightweight AI interaction, visuall
 - AI response on the other  
 
 This creates a more natural interaction without turning the app into a full chatbot.
+
+---
+
+## Use cases
+
+This concept can be applied in multiple real-world scenarios:
+
+- municipalities and city services  
+- smart city platforms  
+- infrastructure maintenance systems  
+- utilities monitoring (water, electricity, roads)  
+- citizen reporting platforms  
+
+The strength of the system lies in converting unstructured input (images) into structured geospatial data.
 
 ---
 
