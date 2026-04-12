@@ -17,20 +17,19 @@ Each record represents a real-world issue detected in public space and converted
 This repository provides a **sample and overview of the dataset**, not the full data.
 
 ---
-## 🔗 Live Demo
+## 🔗 Live Demo & Map
 
-This project includes a fully functional demo application and a live GIS visualization of the generated dataset.
+This project includes a fully functional demo application and a GIS-based visualization of the generated dataset.
 
-You can explore and test the system through the following links:
+You can explore and test the system through the following link:
 
 - **Web Application (AI Reporting Tool):**  
   [Open App](https://ai-gis-reporting.vercel.app/)
-  
-  - **Interactive GIS Map (Dataset Visualization):**  
+
+- **Interactive GIS Map (Dataset Visualization):**  
   Available on request
 
-
-The web application allows users to submit and validate infrastructure issues using AI-assisted classification, while the interactive map displays the resulting geospatial dataset.
+The web application allows users to submit and validate infrastructure issues using AI-assisted classification. The interactive map displays the resulting geospatial dataset and can be shared for research, commercial use, or integration upon request.
 
 ---
 
