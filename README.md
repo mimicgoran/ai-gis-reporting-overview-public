@@ -27,7 +27,7 @@ You can explore and test the system through the following links:
   [Open App](https://ai-gis-reporting.vercel.app/)
 
 - **Interactive GIS Map (Dataset Visualization):**  
-  [View Map](https://experience.arcgis.com/experience/188e315b05ca4d79a08ac19024e380dc)
+ https://experience.arcgis.com/experience/188e315b05ca4d79a08ac19024e380dc
 
 The web application allows users to submit and validate infrastructure issues using AI-assisted classification, while the interactive map displays the resulting geospatial dataset.
 
